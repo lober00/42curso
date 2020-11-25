@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "printlib.h": "c",
+        "unistd.h": "c",
+        "sstream": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
